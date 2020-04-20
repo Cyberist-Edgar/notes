@@ -5,4 +5,8 @@
 - [vue](vue.md)
 
 
+<hr/>
+
+[vue 项目](https://github.com/Cyberist-Edgar/bbs) 实战之bbs
+- 暂时只实现了部分功能
 
