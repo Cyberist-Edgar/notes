@@ -24,7 +24,7 @@
 
 从前，我以为B站只是个看番，追剧，看鬼畜的网站，直到我发现了它上面的学习资料，B站上面真的有好多好多学习的视频资料，比如
 
-<img src="./img/bilibili.png" alt="bilibili">
+<img src="./img/bilibili.png" alt="bilibili" width="600" width="600">
 
 想入门，又不想看文档，B站绝对是你的第一选择，`推荐关闭弹幕食用，毕竟B站弹幕鬼才太多了`
 
@@ -36,7 +36,7 @@
 
 菜鸟教程上涵盖了很多很多的编程的`基础教程`， 比如：
 
-<img src="./img/runoob.png" alt="runoob">
+<img src="./img/runoob.png" alt="runoob" width="600" width="600">
 
 菜鸟教程上面包括了主流的编程语言和很多的相关技术，~~假设一下你能够把它统统学完， 不知道可以装多少逼~~
 
@@ -48,7 +48,7 @@
 
 如果你想要搭建网站，那么就选它吧，毕竟人家专注Web技术
 
-<img src="./img/w3school.png" alt="W3school"/>
+<img src="./img/w3school.png" alt="W3school" width="600">
 
 
 
@@ -58,7 +58,7 @@
 
 上面有可多教程了，不妨在上面进行参考
 
-<img src="./img/w3cschool.png" alt="W3cschool">
+<img src="./img/w3cschool.png" alt="W3cschool" width="600">
 
 
 
@@ -66,7 +66,7 @@
 
 > 一个 由Mozilla 贡献者 负责的前端开发手册
 
-<img src="./img/mozilla.png" alt="web 开发技术">
+<img src="./img/mozilla.png" alt="web 开发技术" width="600">
 
 
 
@@ -76,7 +76,7 @@
 
 > 慕课上面有很多精品课程，毕竟是很多一流老师教授的，值得一听
 
-<img src="./img/icourse.png" alt="icourse">
+<img src="./img/icourse.png" alt="icourse" width="600">
 
 
 
@@ -93,7 +93,7 @@
 
 想要电子资源，不妨到上面搜一搜，说不定有你想要的电子书
 
-<img src="./img/jiumo.png" alt="鸠摩">
+<img src="./img/jiumo.png" alt="鸠摩" width="600">
 
 
 
@@ -101,7 +101,7 @@
 
 看到百度文库上面有自己想要的文件？不妨使用该软件进行下载，输入网站地址，然后开始等待吧
 
-<img src="./img/fish.png" alt="冰点">
+<img src="./img/fish.png" alt="冰点" width="600">
 
 
 
@@ -115,7 +115,7 @@
 
 搭建企业级Web网页，看看这里吧，虽然是英文版，~~但是界面好看啊~~
 
-<img src="./img/spring.png" alt="Spring">
+<img src="./img/spring.png" alt="Spring" width="600">
 
 
 
@@ -123,7 +123,7 @@
 
 想要快速开发网站，试试django吧
 
-<img src="./img/django.png" alt="django">
+<img src="./img/django.png" alt="django" width="600">
 
 
 
@@ -131,7 +131,7 @@
 
 当然开发小型网站，你也可以看看Flask
 
-<img src="./img/flask.png" alt="flask">
+<img src="./img/flask.png" alt="flask" width="600">
 
 
 
@@ -139,7 +139,7 @@
 
 尝试前后端分离，来来来，看看Vue，现在生态已经很完整了，而且学起来还是挺有趣的
 
-<img src="./img/vue.png" alt="vue">
+<img src="./img/vue.png" alt="vue" width="600">
 
 另外推荐几个相关文档 
 
@@ -161,7 +161,7 @@
 
 什么，你还有问题不会的，赶快到StackOverflow上提交你的问题！
 
-<img src="./img/stackoverflow.png" alt="StackOverflow">
+<img src="./img/stackoverflow.png" alt="StackOverflow" width="600">
 
 
 
@@ -169,7 +169,7 @@
 
 作为中国最大的技术交流社区，也不会盖的，在这里，你可以阅读优秀的博文，当然也可以分享你的技术
 
-<img src="./img/csdn.png" alt="CSDN">
+<img src="./img/csdn.png" alt="CSDN" width="600">
 
 
 
@@ -177,7 +177,7 @@
 
  一个帮助开发者成长的社区 ， 功能类似于CSDN
 
-<img src="./img/juejin.png" alt="掘金">
+<img src="./img/juejin.png" alt="掘金" width="600">
 
 
 
@@ -185,7 +185,7 @@
 
 在这里，也有活跃的技术人员，但是似乎它的中心似乎不是技术，而是生活，所以截图并没有给出详细的文章 :)
 
-<img src="./img/jianshu.png" alt="简书">
+<img src="./img/jianshu.png" alt="简书" width="600">
 
 
 
@@ -195,7 +195,7 @@
 
 世界上最大的开源社区，上面有很多优秀的开源项目，建议食用
 
-<img src="./img/github.png" alt="Github">
+<img src="./img/github.png" alt="Github" width="600">
 
 
 
@@ -203,7 +203,7 @@
 
   OSCHINA.NET 推出的代码托管平台 , 国人自己的开源社区
 
-<img src="./img/gitee.png" alt="Gitee">
+<img src="./img/gitee.png" alt="Gitee" width="600">
 
 
 
@@ -214,7 +214,7 @@
 
 如何优美的在线记录自己的技术文章呢，gitbook是你的不二选择，支持markdown等语言哦，~~况且界面这么漂亮美观~~
 
-<img src="./img/gitbook.png" alt="Gitbook">
+<img src="./img/gitbook.png" alt="Gitbook" width="600">
 
 
 
@@ -222,7 +222,7 @@
 
 每个人都有一个技术梦，万一你要发公众号文章呢，不想要浪费时间排版？想要一键markdown语言转化成文章？还想要自定义主题？顺便导出个PDF？好了，那么就选择mdnice吧
 
-<img src="./img/mdnice.png" alt="mdnice">
+<img src="./img/mdnice.png" alt="mdnice" width="600">
 
 
 
@@ -232,7 +232,7 @@
 
 想要测试后端接口，来试试这个
 
-<img src="./img/postwoman.png" alt="Postwoman">
+<img src="./img/postwoman.png" alt="Postwoman" width="600">
 
 
 
@@ -242,7 +242,7 @@
 
 什么，你说你是man，不想要用woman的东西？好，那用postman吧
 
-<img src="./img/postman.png" alt="Postman">
+<img src="./img/postman.png" alt="Postman" width="600">
 
 
 
@@ -252,7 +252,7 @@
 
 什么，你说你想要访问Google，但是没有梯子，那我就推荐一个不要梯子也可以访问Google的扩展！如果有童鞋不能够访问这个网站，可以试试我的github上的哦 [传送门](https://git.io/JfmUE)
 
-<img src="./img/ghelper.png" alt="Ghelper">
+<img src="./img/ghelper.png" alt="Ghelper" width="600">
 
 
 
@@ -262,7 +262,7 @@
 
 你说你有很多的代理，不知道怎么方便的进行设置，并且切换？ 好，那么SwitchyOmega很适合你哦
 
-<img src="./img/switchyOmega.png" alt="WsitchyOmega">
+<img src="./img/switchyOmega.png" alt="WsitchyOmega" width="600">
 
 
 
@@ -270,7 +270,7 @@
 
 什么，你说在github上下载别人项目的时候不想全部下载，只想下载其中的某一部分？那么好吧，试试推荐的这款插件，`双击需要下载的文件夹或者文件commit信息后的空白处，点击右下角的箭头即可轻松下载`，包你满意，~~不满意也不支持退款~~
 
-<img src="./img/gitzip.png" alt="GitZip">
+<img src="./img/gitzip.png" alt="GitZip" width="600">
 
 
 
@@ -278,7 +278,7 @@
 
 网页想进行长截图，但是不知道怎么办？ 试试这款推荐的插件
 
-<img src="./img/screenshot.png" alt="ScreenShot">
+<img src="./img/screenshot.png" alt="ScreenShot" width="600">
 
 
 
@@ -287,7 +287,7 @@
 
 想要给自己指定计划？而且还要好看的软件，好了，试试这款软件吧，个人体验还是挺棒的
 
-<img src="./img/todo.png" alt="Microsoft To do">
+<img src="./img/todo.png" alt="Microsoft To do" width="600">
 
 
 
@@ -299,7 +299,7 @@
 
 Windows下的终端，Mac用户可忽略，支持定制
 
-<img src="./img/terminal.png" alt="Terminal">
+<img src="./img/terminal.png" alt="Terminal" width="600">
 
 
 
@@ -309,7 +309,7 @@ Windows下的终端，Mac用户可忽略，支持定制
 
 制作美观的思维导图？那你不能没有它
 
-<img src="./img/xmind.png" alt="Xmind">
+<img src="./img/xmind.png" alt="Xmind" width="600">
 
 
 
@@ -319,13 +319,13 @@ Windows下的终端，Mac用户可忽略，支持定制
 
 Windows 自带的搜索太慢了？让Everything来做吧
 
-<img src="./img/everything.png" alt="Everything">
+<img src="./img/everything.png" alt="Everything" width="600">
 
 #### 14. [ScreenToGif]( https://www.screentogif.com/ )
 
 想要制作一个gif动图？ 墙裂推荐这个软件！！ 轻便又强大
 
-<img src="./img/screentogif.png" alt ="ScreenToGif">
+<img src="./img/screentogif.png" alt ="ScreenToGif" width="600">
 
 
 
@@ -335,7 +335,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 轻巧美观的markdown编辑器，而且支持Latex公式！
 
-<img src="./img/typora.png" alt="Typora">
+<img src="./img/typora.png" alt="Typora" width="600">
 
 
 
@@ -345,7 +345,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 想要刷题的童鞋可以到这里刷刷，题目后面还有官方解答和社区的解答哦
 
-<img src="./img/leetcode.png" alt="力扣">
+<img src="./img/leetcode.png" alt="力扣" width="600">
 
 
 
@@ -355,7 +355,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 一看就知道是很多牛人在一起的地方，这里有丰富的面试题，笔试题，要找工作了，快去看看
 
-<img src="./img/nowcoder.png" alt="牛客网">
+<img src="./img/nowcoder.png" alt="牛客网" width="600">
 
 
 
@@ -367,7 +367,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 想要用python进行大型的项目编程，那么pycharm当然是最好的IDE了，不接受反驳
 
- <img src="./img/pycharm.png" alt="Pycharm"> 
+ <img src="./img/pycharm.png" alt="Pycharm" width="600"> 
 
 
 
@@ -377,7 +377,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 如果要使用Java进行编程，那么我还是推荐IDEA
 
-<img src="./img/idea.png" alt="IDEA">
+<img src="./img/idea.png" alt="IDEA" width="600">
 
 
 
@@ -385,7 +385,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 这么好看好用的软件，当然要狠狠的推荐一波，支持多种语言, 比如c++，c，python，html，css，js等等等，但需要自己进行配置
 
-<img src="./img/vscode.png" alt="Vscode">
+<img src="./img/vscode.png" alt="Vscode" width="600">
 
 
 
@@ -393,7 +393,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 如果使用C语言或者C++，这款软件还是挺棒的，当然你还可以用jet brain的[ CLion ]( https://www.jetbrains.com/clion/ )
 
-<img src="./img/vs.png" alt="Visual Studio">
+<img src="./img/vs.png" alt="Visual Studio" width="600">
 
 
 
