@@ -4,9 +4,19 @@
 
 > 想要自学，那么我推荐你看看这些
 
+<div align="center"><h3>目录</h3></div>
+
+- [技术学习篇](#1)
+- [资源获取篇](#2)
+- [文档阅读篇](#3)
+- [分享交流篇](#4)
+- [开源篇](#5)
+- [实用篇](#6)
+- [刷题篇](#7)
+- [软件篇](#8)
 
 
-<div align="center"><h3>技术学习篇</h3></div>
+<div align="center" id="1"><h3>技术学习篇</h3></div>
 
 #### 1. [Bilibili]( https://www.bilibili.com/ )
 
@@ -76,7 +86,8 @@
 
 
 
-<div align="center"><h3>资源获取篇</h3></div>
+<div align="center" id="2"><h3>资源获取篇</h3></div>
+
 
 #### 1. [鸠摩搜索]( https://www.jiumodiary.com/ )
 
@@ -96,7 +107,7 @@
 
 
 
-<div align="center"><h3>文档阅读篇</h3></div>
+<div align="center" id="3"><h3>文档阅读篇</h3></div>
 
 > 当然很多知识还是阅读官方文档好一点，毕竟不是其他的资源能够跟上文档的更新步伐
 
@@ -144,7 +155,7 @@
 
 
 
-<div align="center"><h3>分享交流篇</h3></div>
+<div align="center" id="4"><h3>分享交流篇</h3></div>
 
 #### 1. [Stackoverflow]( https://stackoverflow.com/ )
 
@@ -178,7 +189,7 @@
 
 
 
-<div align="center"><h3>开源篇</h3></div>
+<div align="center" id="5"><h3>开源篇</h3></div>
 
 #### 1. [Github]( https://github.com/ )
 
@@ -197,7 +208,7 @@
 
 
 
-<div align="center"><h3>实用篇</h3></div>
+<div align="center" id="6"><h3>实用篇</h3></div>
 
 #### 1. [Gitbook]( https://www.gitbook.com/ )
 
@@ -328,7 +339,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 
 
-<div align="center"><h3>刷题篇</h3></div>
+<div align="center" id="7"><h3>刷题篇</h3></div>
 
 #### 1. [力扣]( https://leetcode-cn.com/ )
 
@@ -350,7 +361,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 
 
-<div align="center"><h3>软件篇</h3></div>
+<div align="center" id="8"><h3>软件篇</h3></div>
 
 #### 1.[pycharm]( https://www.jetbrains.com/pycharm )
 
