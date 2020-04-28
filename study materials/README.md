@@ -7,6 +7,7 @@
 
 
 <div align="center"><h3>技术学习篇</h3></div>
+
 #### 1. [Bilibili]( https://www.bilibili.com/ )
 
 > B站用的好，就像获得宝
@@ -61,7 +62,7 @@
 
 
 
-#### 5. [ 中国大学Mooc ]( https://www.icourse163.org/ )
+#### 6. [ 中国大学Mooc ]( https://www.icourse163.org/ )
 
 > 慕课上面有很多精品课程，毕竟是很多一流老师教授的，值得一听
 
@@ -76,6 +77,7 @@
 
 
 <div align="center"><h3>资源获取篇</h3></div>
+
 #### 1. [鸠摩搜索]( https://www.jiumodiary.com/ )
 
 想要电子资源，不妨到上面搜一搜，说不定有你想要的电子书
@@ -95,6 +97,7 @@
 
 
 <div align="center"><h3>文档阅读篇</h3></div>
+
 > 当然很多知识还是阅读官方文档好一点，毕竟不是其他的资源能够跟上文档的更新步伐
 
 #### 1. [Spring]( https://spring.io/ )
@@ -142,6 +145,7 @@
 
 
 <div align="center"><h3>分享交流篇</h3></div>
+
 #### 1. [Stackoverflow]( https://stackoverflow.com/ )
 
 什么，你还有问题不会的，赶快到StackOverflow上提交你的问题！
@@ -175,6 +179,7 @@
 
 
 <div align="center"><h3>开源篇</h3></div>
+
 #### 1. [Github]( https://github.com/ )
 
 世界上最大的开源社区，上面有很多优秀的开源项目，建议食用
@@ -193,6 +198,7 @@
 
 
 <div align="center"><h3>实用篇</h3></div>
+
 #### 1. [Gitbook]( https://www.gitbook.com/ )
 
 如何优美的在线记录自己的技术文章呢，gitbook是你的不二选择，支持markdown等语言哦，~~况且界面这么漂亮美观~~
@@ -323,6 +329,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 
 <div align="center"><h3>刷题篇</h3></div>
+
 #### 1. [力扣]( https://leetcode-cn.com/ )
 
 想要刷题的童鞋可以到这里刷刷，题目后面还有官方解答和社区的解答哦
@@ -344,6 +351,7 @@ Windows 自带的搜索太慢了？让Everything来做吧
 
 
 <div align="center"><h3>软件篇</h3></div>
+
 #### 1.[pycharm]( https://www.jetbrains.com/pycharm )
 
 想要用python进行大型的项目编程，那么pycharm当然是最好的IDE了，不接受反驳
