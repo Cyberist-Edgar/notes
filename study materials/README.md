@@ -24,7 +24,7 @@
 
 从前，我以为B站只是个看番，追剧，看鬼畜的网站，直到我发现了它上面的学习资料，B站上面真的有好多好多学习的视频资料，比如
 
-<img src="./img/bilibili.png" alt="bilibili" width="600" width="600">
+<img src="./img/bilibili.png" alt="bilibili" width="600">
 
 想入门，又不想看文档，B站绝对是你的第一选择，`推荐关闭弹幕食用，毕竟B站弹幕鬼才太多了`
 
@@ -36,7 +36,7 @@
 
 菜鸟教程上涵盖了很多很多的编程的`基础教程`， 比如：
 
-<img src="./img/runoob.png" alt="runoob" width="600" width="600">
+<img src="./img/runoob.png" alt="runoob" width="600" >
 
 菜鸟教程上面包括了主流的编程语言和很多的相关技术，~~假设一下你能够把它统统学完， 不知道可以装多少逼~~
 
