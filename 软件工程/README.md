@@ -7,6 +7,8 @@
 
 <hr/>
 
-[vue 项目](https://github.com/Cyberist-Edgar/bbs) 实战之bbs
-- 暂时只实现了部分功能
+实战前后端分离之bbs
 
+[vue 项目](https://github.com/Cyberist-Edgar/bbs) 
+
+[Spring Boot项目](https://github.com/Cyberist-Edgar/SpringBoot-BBS)
